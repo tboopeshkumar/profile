@@ -1,0 +1,390 @@
+{
+  "basics": {
+    "name": "Boopesh Kumar",
+    "title": "Senior Software Engineer",
+    "focus": [
+      "Software Architecture",
+      "FinTech"
+    ],
+    "stack": "C# / .NET · React · TypeScript · Azure",
+    "location": "Abu Dhabi, UAE",
+    "email": "tboopeshkumar@gmail.com",
+    "phone": "",
+    "photo": "assets/profile.jpg?v=3",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/boopeshkt"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/tboopeshkumar"
+      }
+    ],
+    "summary": "Senior software engineer with 16 years building enterprise applications for investment management, including over six years on sovereign wealth fund systems. Works closely with business teams to deliver high-performance, scalable portfolio management and front-office research platforms. Hands-on in C#/.NET, ASP.NET Core, WPF, React/TypeScript and Azure, with Docker, Kubernetes and Terraform, plus AI tooling such as Azure AI Foundry, Claude Code and GitHub Copilot. Strong in solution design, distributed systems, RESTful APIs, DDD and SOLID, taking work from design through testing, release and production support.",
+    "cv": "assets/Boopesh-Kumar-CV.pdf?v=2026-10-05.3"
+  },
+  "expertise": [
+    {
+      "title": "Architecture & design",
+      "items": [
+        "Solution & system design",
+        "Distributed systems, microservices",
+        "DDD, SOLID, design patterns",
+        "RESTful APIs, performance tuning"
+      ]
+    },
+    {
+      "title": "Engineering leadership",
+      "items": [
+        "Technical leadership & mentoring",
+        "Code reviews & quality standards",
+        "Agile, Scrum, SAFe, TDD",
+        "Testing & production support"
+      ]
+    },
+    {
+      "title": "Financial technology",
+      "items": [
+        "Investment management",
+        "Fixed-income trading",
+        "Front-office research platforms",
+        "Transaction management systems"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Abu Dhabi Investment Authority (ADIA)",
+      "short": "ADIA",
+      "location": "Abu Dhabi, UAE",
+      "domain": "finance",
+      "roles": [
+        {
+          "title": "Senior Specialist",
+          "start": "2026-03",
+          "end": null
+        },
+        {
+          "title": "Specialist",
+          "start": "2022-07",
+          "end": "2026-03"
+        }
+      ],
+      "highlights": [
+        "Partner with business teams to build and maintain high-performance, scalable portfolio management applications.",
+        "Design and build RESTful APIs and services in C# (.NET Core, ASP.NET Core) with React/TypeScript front ends, applying SOLID, DDD and design patterns on Azure, Docker, Kubernetes and Terraform.",
+        "Integrate in-house applications with third-party market data and trading platforms through vendor APIs.",
+        "Build AI tools with Azure AI Foundry and MCP for portfolio analysis, order cloning and order approval.",
+        "Mentor 5+ engineers and lead peer code reviews, setting coding and design standards for the team.",
+        "Run system integration testing and UAT with business users, and write documentation and user guides."
+      ],
+      "tags": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "React",
+        "TypeScript",
+        "Azure",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Azure AI Foundry",
+        "MCP",
+        "DDD"
+      ]
+    },
+    {
+      "company": "Luxoft",
+      "short": "Luxoft",
+      "client": "ADIA",
+      "location": "Abu Dhabi, UAE",
+      "domain": "finance",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "start": "2020-03",
+          "end": "2022-06"
+        }
+      ],
+      "highlights": [
+        "Led development of a front-office research platform used by 50+ investment professionals, built on React, TypeScript, ASP.NET MVC, MongoDB, OpenFin and Azure.",
+        "Shaped the architecture so the platform could be consumed from .NET, JavaScript and Python.",
+        "Delivered features for a fixed-income trading and risk platform in C#, WPF and .NET on Azure.",
+        "Reviewed the team’s code and drove ongoing enhancements to the platform."
+      ],
+      "tags": [
+        "C#",
+        ".NET",
+        "React",
+        "TypeScript",
+        "WPF",
+        "ASP.NET MVC",
+        "MongoDB",
+        "OpenFin",
+        "Azure"
+      ]
+    },
+    {
+      "company": "JPMorgan Chase & Co.",
+      "short": "JPMorgan",
+      "location": "Bengaluru, India",
+      "domain": "finance",
+      "roles": [
+        {
+          "title": "Associate",
+          "start": "2019-07",
+          "end": "2020-03"
+        }
+      ],
+      "highlights": [
+        "Built components for a robo-advisory investment platform in React, TypeScript and Java.",
+        "Worked directly with business stakeholders to deliver customer-facing investment features."
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "Java"
+      ]
+    },
+    {
+      "company": "Publicis Sapient",
+      "short": "Publicis Sapient",
+      "location": "Bengaluru, India",
+      "domain": "finance",
+      "roles": [
+        {
+          "title": "Senior Technical Associate",
+          "start": "2017-07",
+          "end": "2019-07"
+        }
+      ],
+      "highlights": [
+        "Built a hybrid hedge-fund transaction management system using React, WPF, OpenFin and Node.js.",
+        "Built advanced filtering and bulk transaction amendment for operations users.",
+        "Set up the build and deployment pipeline on Bamboo, Bitbucket and JIRA.",
+        "Owned and migrated a legacy MFC (C++) transaction management application with no business disruption."
+      ],
+      "tags": [
+        "React",
+        "WPF",
+        ".NET",
+        "OpenFin",
+        "Node.js",
+        "C++",
+        "CI/CD"
+      ]
+    },
+    {
+      "company": "Intuit",
+      "short": "Intuit",
+      "location": "Bengaluru, India",
+      "domain": "software",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "start": "2016-06",
+          "end": "2017-07"
+        }
+      ],
+      "highlights": [
+        "Built features for TurboTax, the DIY tax preparation and e-filing product, in WPF and React.",
+        "Contributed across the full lifecycle: design, architecture, development, testing and documentation.",
+        "Served as Scrum Master and worked directly with end users, acting on their feedback to improve the product."
+      ],
+      "tags": [
+        "WPF",
+        ".NET",
+        "React",
+        "Scrum"
+      ]
+    },
+    {
+      "company": "UST Global",
+      "short": "UST Global",
+      "client": "Philips Healthcare",
+      "location": "India",
+      "domain": "software",
+      "earlier": true,
+      "roles": [
+        {
+          "title": "System Analyst",
+          "start": "2014-09",
+          "end": "2016-05"
+        }
+      ],
+      "highlights": [
+        "Built a WPF/SQLite log analyzer for Philips Healthcare devices and an Angular knowledge base of known log patterns to speed up issue resolution; worked in SAFe with pair programming."
+      ],
+      "tags": [
+        "WPF",
+        ".NET",
+        "SQLite",
+        "Angular",
+        "SAFe"
+      ]
+    },
+    {
+      "company": "Aditi Technologies",
+      "short": "Aditi",
+      "location": "India",
+      "domain": "software",
+      "earlier": true,
+      "roles": [
+        {
+          "title": "Senior Development Engineer",
+          "start": "2013-07",
+          "end": "2014-09"
+        }
+      ],
+      "highlights": [
+        "Built a project-management dashboard (WPF, WCF, SQL Server) and a tools-maintenance application for Microsoft (Knockout JS, HTML5), hosted on Microsoft Azure; worked with clients on functional requirements."
+      ],
+      "tags": [
+        "WPF",
+        "WCF",
+        ".NET",
+        "SQL Server",
+        "Knockout JS",
+        "HTML5",
+        "Azure"
+      ]
+    },
+    {
+      "company": "Syncfusion",
+      "short": "Syncfusion",
+      "location": "India",
+      "domain": "software",
+      "earlier": true,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "start": "2010-07",
+          "end": "2013-07"
+        }
+      ],
+      "highlights": [
+        "Developed a .NET WPF UI component library used across many applications; benchmarked competitor products, took part in peer reviews and supported customers using the controls."
+      ],
+      "tags": [
+        "WPF",
+        ".NET",
+        "C#"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages",
+      "items": [
+        "C#",
+        "TypeScript",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "group": "Frameworks",
+      "items": [
+        ".NET Core",
+        "ASP.NET Core",
+        "React",
+        "WPF",
+        "Angular",
+        "Knockout JS",
+        "OpenFin",
+        "HTML5"
+      ]
+    },
+    {
+      "group": "Cloud & DevOps",
+      "items": [
+        "Azure",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Bamboo",
+        "Bitbucket",
+        "JIRA"
+      ]
+    },
+    {
+      "group": "Data",
+      "items": [
+        "SQL Server",
+        "MongoDB",
+        "Databricks",
+        "SQLite"
+      ]
+    },
+    {
+      "group": "AI",
+      "items": [
+        "Azure AI Foundry",
+        "MCP",
+        "Claude Code",
+        "GitHub Copilot"
+      ]
+    },
+    {
+      "group": "Tools",
+      "items": [
+        "Visual Studio",
+        "VS Code",
+        "Cursor",
+        "SSMS",
+        "Postman",
+        "JetBrains",
+        "DevExpress"
+      ]
+    },
+    {
+      "group": "Practices",
+      "items": [
+        "Agile",
+        "Scrum",
+        "SAFe",
+        "TDD",
+        "DDD",
+        "SOLID",
+        "Design patterns",
+        "Code reviews",
+        "Performance optimisation",
+        "Modernisation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "school": "Anna University, Chennai",
+      "start": "2007",
+      "end": "2010"
+    },
+    {
+      "degree": "B.Sc., Computer Science",
+      "school": "Bharathiar University, Coimbatore",
+      "start": "2004",
+      "end": "2007"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Azure",
+      "authority": "Microsoft"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional"
+    },
+    {
+      "name": "Tamil",
+      "proficiency": "Native"
+    }
+  ]
+}

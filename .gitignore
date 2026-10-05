@@ -1,0 +1,5 @@
+# Raw LinkedIn exports contain private data (connections, messages)
+*LinkedInDataExport*
+*.zip
+linkedin-export/
+.DS_Store
